@@ -20,13 +20,13 @@ while True:
 
         if opcion==1 :
 
-
+            pass
 
         elif opcion==2 :
-
+            pass
 
         elif opcion==3 :
-
+            pass
 
         else opcion==4:
             print("terminar y salir")
