@@ -28,7 +28,7 @@ while True:
         elif opcion==3 :
             pass
 
-        else opcion==4:
+        elif opcion==4:
             print("terminar y salir")
             break
     except ValueError:
